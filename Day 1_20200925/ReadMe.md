@@ -2,5 +2,5 @@
 
 Actually started looking on Haskell yesterday but didn't think of posting it so I'm just gonna start from today.
 
-Took me some time for me to install ghci (haskell compiler) and preety much relied on this [guide](chocolatey.org/install)
+Took me some time for me to install ghci (haskell compiler) and preety much relied on this [guide](https://chocolatey.org/install)
 
